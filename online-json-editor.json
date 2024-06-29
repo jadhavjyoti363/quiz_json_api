@@ -1,0 +1,119 @@
+{
+  "quiz": [
+    {
+      "question": "Not feeling assitance and resistance?",
+      "answer": "If you are not feeling assistance and resistance, it could be due to an issue with the emergency switch. 
+               Here are the steps to troubleshoot and resolve this issue:
+
+               Check the Emergency Switch: Locate the emergency switch on your device.
+ 
+               Ensure It Is Not Pressed: Make sure the emergency switch is not pressed or engaged. 
+               When the emergency switch is pressed, it can disable certain functions, including assistance and resistance.
+
+               Reset the Switch: If the switch appears to be in the correct position but the problem persists, try resetting it by pressing and then releasing it.
+
+               Inspect for Damage: Examine the switch for any signs of damage or wear that might affect its operation. If the switch is damaged, it may need to be replaced.
+
+               Consult the Manual: Refer to the device's user manual for specific instructions related to the emergency switch and its impact on assistance and resistance functions.
+
+               By following these steps, you can ensure that the emergency switch is not inadvertently preventing the device from providing the necessary assistance and resistance."
+    },
+    {
+      "question": "Training mode not working properly ?",
+      "answer": "If the training mode is not working properly, you can try the following steps to resolve the issue:
+
+ Restart the Application: Sometimes, restarting the application can fix temporary glitches. Close the app completely and then reopen it to see if the problem is resolved.
+          
+ Restart the Tablet: If restarting the application doesn't help, try restarting the tablet. This can clear any software conflicts or temporary issues affecting the training mode.
+ 
+Check Calibration: Ensure that the device is properly calibrated. Calibration issues can cause the training mode to malfunction. Follow the calibration instructions in the user      manual to recalibrate the device correctly.
+By following these steps, you can troubleshoot and often resolve issues with the training mode not working properly. If the problem persists after trying these steps, you may need to contact customer support for further assistance."
+    },
+    {
+      "question": "Bluetooth connection isssue ?",
+      "answer": "If you're experiencing a Bluetooth connection issue, you can try the following steps to resolve the problem:
+
+Restart the Application: Sometimes, restarting the application can resolve temporary glitches affecting the Bluetooth connection. Close the app completely and then reopen it to see if the issue is fixed.
+Restart the Tablet: If restarting the application doesn't help, try restarting the tablet. This can clear any software conflicts or temporary issues that might be affecting the Bluetooth connection.
+Replace the Arduino Board: If the Bluetooth connection issue persists, it could be due to a faulty Arduino board. Replacing the Arduino board can often resolve connectivity problems. 
+
+Ensure that all connections between your Bluetooth module and the Arduino are secure and correctly wired, and consider updating the firmware on both devices.
+By following these steps, you can troubleshoot and often resolve Bluetooth connection issues. If the problem continues after trying these steps, you may need to seek further assistance or consider additional diagnostics."
+    },
+    {
+      "question": "Human effort not showing ?",
+      "answer": "switch on the machine without attaching the attachment"
+    },
+
+    {
+      "question": "Patient not able to reach target ?",
+      "answer": "If the human effort is not showing, you can try the following steps to resolve the issue:
+
+Switch on the Machine: Ensure that the machine is switched on properly.
+
+Detach the Attachment: Turn on the machine without attaching any additional equipment or attachments. This helps to isolate the problem and determine if the attachment is causing the issue.
+
+Check the Display: Verify if the machine's display or interface shows any readings or errors. This can provide clues about what might be wrong.
+
+Inspect Connections: Ensure that all cables and connections are secure and functioning correctly.
+
+Consult the Manual: Refer to the user manual for specific troubleshooting steps related to the machine and its operation.
+
+By following these steps, you can troubleshoot why the human effort might not be displaying correctly. If the issue persists after trying these steps, you may need to seek further assistance or contact customer support for more detailed diagnostics."
+    },
+    {
+      "question": "Noise from the machine ?",
+      "answer": "If you're hearing noise from the machine, you can try the following step to resolve the issue:
+
+Reduce the Range: Sometimes, excessive noise can be caused by operating the machine at too high a range or intensity. Try reducing the range or setting to a lower level to see if the noise decreases.
+Inspect for Loose Parts: Ensure that all parts and components of the machine are securely fastened. Loose parts can cause noise during operation.
+
+Check for Obstructions: Look for any obstructions or foreign objects that might be causing the noise and remove them.
+
+Maintenance Check: Perform a routine maintenance check to ensure that the machine is properly lubricated and that all moving parts are functioning smoothly.
+
+Consult the Manual: Refer to the user manual for any specific recommendations or troubleshooting steps related to noise issues.
+
+By following these steps, you can often identify and resolve the source of the noise from the machine. If the noise persists after trying these steps, you may need to seek further assistance or contact customer support for more detailed diagnostics."
+    },
+
+    {
+      "question": "Not able to fix attachment ?",
+      "answer": "If you are not able to fix the attachment, you can try the following steps to resolve the issue:
+
+Check the Attachment and Connection Points: Ensure that the attachment and its connection points are clean, undamaged, and free of obstructions. Sometimes, dirt or debris can prevent a secure connection.
+Follow the User Manual: Refer to the user manual for specific instructions on how to properly fix the attachment. Make sure you are following the recommended steps and using the correct method.
+Inspect for Compatibility: Verify that the attachment is compatible with your machine. Using an incompatible attachment can lead to issues with fitting.
+
+Contact the Service Center: If you are still unable to fix the attachment after following the above steps, contact the service center for professional assistance. The service center can provide expert help and may be able to repair or replace any faulty parts.
+
+By following these steps, you can address issues with fixing the attachment. If the problem persists, professional help from the service center is recommended to ensure proper and safe operation of the machine."
+    },
+
+    {
+      "question": "Machine not switch on ?",
+      "answer": "If your machine is not switching on, you can try the following steps to resolve the issue:
+
+Check the Power Cable: Ensure that the power cable is securely connected to both the machine and the power outlet. Sometimes, a loose connection can prevent the machine from receiving power.
+Inspect the Power Source: Verify that the power outlet is functioning properly. You can test it by plugging in another device to see if it receives power.
+
+Look for Visible Damage: Examine the power cable and plug for any visible signs of damage, such as fraying or exposed wires. If the power cable is damaged, it may need to be replaced.
+
+Contact the Service Center: If the machine still does not switch on after checking the power cable and outlet, contact the service center for professional assistance. The service center can help diagnose and repair any internal issues that may be preventing the machine from powering on.
+
+By following these steps, you can troubleshoot why the machine is not switching on. If the problem persists after trying these steps, professional help from the service center is recommended to ensure proper diagnosis and repair."
+    },
+    {
+      "question": "In ADL application movement in wrong direction ?",
+      "answer": "If you are experiencing movement in the wrong direction in the ADL application, you can try the following step to resolve the issue:
+
+Switch Side Position: Check the positioning of the device or attachment. It might be configured on the wrong side or in the incorrect orientation. Switch the side position to ensure it aligns correctly with the intended direction of movement.
+
+Verify Configuration Settings: Make sure the configuration settings within the ADL application are set correctly for the desired movement direction.
+
+Consult the User Manual: Refer to the user manual for specific instructions on proper positioning and configuration to ensure correct movement direction.
+
+By following these steps, you can troubleshoot and correct the movement direction in the ADL application. If the issue persists after trying these steps, you may need to seek further assistance or contact customer support for more detailed diagnostics."
+    }
+  ]
+}
